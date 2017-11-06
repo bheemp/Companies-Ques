@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
  */
 public final class ImmutableQueue<E> {
 private Object[] q_element;
-	
+    //git check
 	public ImmutableQueue(){
 		
 	}
